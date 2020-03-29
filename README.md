@@ -80,8 +80,9 @@ As mentioned, when the number of cases were first rising, the stock market was r
 This would display itself as a positive correlation and that would be inaccurate. 
 * This study assumes that confirmed COVID-19 cases do affect the stock market.
 But which number of cases should I use for my prediction model? 
-Should I use number of cases in China, the US, Europe, Europe & the US, etc? 
-or should I simply focus on cases worldwide? Sadly, this too requires an analysis of its own. For now, given that
+What numbers are most affecting the stock market? Is it the number of cases worldwide? The number of cases in the US?
+The number of cases after the virus left Wuhan? The possibilities are endless 
+they too requires an analysis of their own. For now, given that
 the S&P 500 is based in the US and represents US companies, I will assume and compare only the impact of cases 
 in the US vs worldwide.
 
