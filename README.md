@@ -96,7 +96,7 @@ In this step we will both test our hypothesis and compare the impact of numbers 
 
 |   | Total Cases (USA) | Total Cases (World) |
 |:-------|:---------------|:---------------|
-|Stock Price|      -0.663279 |     -0.772762 |
+|Stock Price|      -0.663279 |     -0.853012 |
 
 
 
@@ -104,8 +104,8 @@ In this step we will both test our hypothesis and compare the impact of numbers 
 
 ![COVID-19 Scatter Plot](/viz/scatter.png)
 
-The correlation measure confirms a strong negative correlation in both and yet a stronger one with global numbers. 
-The scatterplot, reveals the same information and with additional insights: 
+The correlation measure displays a moderately strong negative correlation with cases in the US and strong negative one with global
+ones. The scatterplot, reveals the same information and with additional insights: 
 * The low density of markers on the right side can be explained by the exponential increase of confirmed cases that
 we saw earlier.
 * The US. scatterplot shows stock prices declining when the country was still at zero cases. 
