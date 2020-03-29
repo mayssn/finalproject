@@ -54,7 +54,7 @@ the S&P 500 stock which measures the stock performance of 500 large companies
 listed on US. stock exchanges. 
 
 ###### S&P Stock Price (close) from Jan 1, 2019- March 26, 2020.
-![S&P 500](/picscreen/sp500.png)
+![S&P 500](/viz/sp500.png)
 
 
 We saw earlier that the confirmed cases of COVID-19 took a drastic shift in growth rates
