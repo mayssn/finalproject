@@ -13,6 +13,9 @@ The repository includes:
 * The .gitignore file
 
 -----
+### Research Question
+What is the impact of the COVID-19 virus on the stock market and can we infer any predictive analyses from existing data?
+
 ### Abstract 
 This study looks into data of both confirmed COVID-19 cases and the S&P 500 (close) prices to generate descriptive
 analysis and attempt to make a predictive one. The descriptive analysis found different stages with 
