@@ -82,7 +82,7 @@ This would display itself as a positive correlation and that would be inaccurate
 But which number of cases should I use for my prediction model? 
 Should I use number of cases in China, the US, Europe, Europe & the US, etc? 
 or should I simply focus on cases worldwide? Sadly, this too requires an analysis of its own. For now, given that
-the S&P 500 is based in the US ad represents US companies, I will assume and compare only the impact of cases 
+the S&P 500 is based in the US and represents US companies, I will assume and compare only the impact of cases 
 in the US vs worldwide.
 
 
