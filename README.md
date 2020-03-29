@@ -110,10 +110,8 @@ ones. The scatterplot, one the other hand, reveals the following:
 we saw earlier.
 * There is a negative correlation with cases in the US. but we can see that the market reacted before the virus reached the US,
 when they were still at zero confirmed cases.As such, for our prediction model, we will use the number of cases worldwide. 
-* We can see through the scatterplot, the strong negative correlation in with worldwise cases but we can also see that the fear & panic only began after around 58k confirmed cases. 
-* The scatterplot reveals what we saw earlier, which is that the price of S&P stock was actually rising up until around 58k cases. This 
-is in fact same threshold we saw earlier, but rather than seeing it in terms of date, we are seeing it in terms of numbers of 
-confirmed cases worldwide. The latter being the x-axis of our prediction model. 
+* The scatterplot reconfirms a the strong negative correlation with cases worldwide,but we can also see that the fear & panic only began after around 58k confirmed cases. This is in fact same threshold we saw earlier, but rather than seeing it in terms of date, 
+we are seeing it in terms of numbers of confirmed cases worldwide. The latter being the x-axis of our prediction model. 
 As such, to prevent inaccuracies of the "denial stage", we will simply filter out data for the first 58k confirmed
 cases.
 
