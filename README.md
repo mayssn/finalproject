@@ -105,16 +105,15 @@ In this step we will both test our hypothesis and compare the impact of numbers 
 ![COVID-19 Scatter Plot](/viz/scatter.png)
 
 The correlation measure displays a rather moderate negative correlation with cases in the US and yet strong negative one with global
-ones. The scatterplot, reveals the same information and with additional insights: 
-* The low density of markers on the right side can be explained by the exponential increase of confirmed cases that
+ones. The scatterplot, one the other hand, reveals the following:
+* First of all, the low density of markers on the right side can be explained by the exponential increase of confirmed cases that
 we saw earlier.
-* The US. scatterplot shows stock prices declining when the country was still at zero cases. 
-This indicates that the panic began before COVID-19 reached the U.S. 
-We will thus use, for our prediction model, the number of cases worldwide. 
-* The scatterplot for cases worldwide reveals that fear & panic only began after around 58k confirmed cases. 
-As we saw before, the price of S&P stock was actually rising before that.
-This is the same threshold we saw earlier, but rather than seeing it in terms of date, we 
-are seeing it in terms of numbers of confirmed cases worldwide. The latter being the x-axis of our prediction model. 
+* There is a negative correlation with cases in the US. but we can see that the market reacted before the virus reached the US,
+when they were still at zero confirmed cases.As such, for our prediction model, we will use the number of cases worldwide. 
+* We can see through the scatterplot, the strong negative correlation in with worldwise cases but we can also see that the fear & panic only began after around 58k confirmed cases. 
+* The scatterplot reveals what we saw earlier, which is that the price of S&P stock was actually rising up until around 58k cases. This 
+is in fact same threshold we saw earlier, but rather than seeing it in terms of date, we are seeing it in terms of numbers of 
+confirmed cases worldwide. The latter being the x-axis of our prediction model. 
 As such, to prevent inaccuracies of the "denial stage", we will simply filter out data for the first 58k confirmed
 cases.
 
