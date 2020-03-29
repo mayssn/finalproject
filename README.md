@@ -161,11 +161,10 @@ Then, a sudden shift in people's attitudes towards the virus. This is when a str
 is formed. The extent of how pronounced the difference between both stages was may indicate panic and thus
 an exageration of the relationship between both factors. At this moment in time, it is too soon to tell. 
 
-I do expect that we may see other different stages regarding the socio-econmic impact of the panic.
+I do expect that we may see other different stages regarding the socio-econmic impact of the virus.
 Perhaps, people will undergo some form of adaption and newer technologies will emerge. 
-It is again, too soon to tell. And while this is true, I do look forward to using my code in the upcoming days/weeks, 
-to replug updates numbers
-and generate newer and better estimates. 
+It is again, too soon to tell. I do however, look forward to using my code in the upcoming days/weeks, 
+to replug updates numbersand generate newer and better estimates. 
 
 ### Future Research
 
