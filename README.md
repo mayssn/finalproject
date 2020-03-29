@@ -158,8 +158,7 @@ While the predictive model did fail, we were able to extract some valuable insig
 different stages. 
 * We have so far seen two stages. At first, there is no impact of the virus on the stock market. 
 Then, a sudden shift in people's attitudes towards the virus. This is when a strong negative correlation 
-is formed. The extent of how pronounced the difference between both stages was may indicate panic and thus
-an exageration of the relationship between both factors. At this moment in time, it is too soon to tell. 
+is formed. 
 
 I do expect that we may see other different stages regarding the socio-econmic impact of the virus.
 Perhaps, people will undergo some form of adaption and newer technologies will emerge. 
