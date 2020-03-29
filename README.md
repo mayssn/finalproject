@@ -125,9 +125,12 @@ because every plot generated different results. Here are some of the plots that 
 
 ![Prediction #1 ](/viz/prediction.png)
 
+
 ![Prediction #2 ](/viz/prediction2.png)
 
+
 ![Prediction #3 ](/viz/prediction3.png)
+
 
 ![Prediction #4 ](/viz/prediction4.png)
 
@@ -177,5 +180,5 @@ Links to the datasets:
 * [COVID-19 Geographic Distribution (03/26/2020) *European Centre for Disease Prevention & Control*_](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 
 
-* [ S&P 500 Historical Data, (03/26/2020) *Yahoo! Finance*](https://finance.yahoo.com/quote/%5EGSPC/history/)# finalproject
-# finalproject
+* [ S&P 500 Historical Data, (03/26/2020) *Yahoo! Finance*](https://finance.yahoo.com/quote/%5EGSPC/history/)
+
