@@ -40,7 +40,7 @@ A quick google search of news, filtered to that time frame, provides a general i
 The latter can be summarized with the following Global News article published on March 5th, 2020: 
 "*Fears over COVID-19 mount across the West as outbreak eases in China*".  
 
-![COVID-19 Cases](/picscreen/covid19.png)
+![COVID-19 Cases](/viz/covid19.png)
 
 That being said, it is important to distinguish between total cases and total *confirmed* cases.
 Total *confirmed* cases is subjective to frequency of testing. It is very likely that the virus was spreading
@@ -100,7 +100,7 @@ In this step we will both test our hypothesis and compare the impact of numbers 
 
 ###### COVID-19 Cases & S&P 500 stock price: Scatterplot:
 
-![COVID-19 Scatter Plot](/picscreen/scatter.png)
+![COVID-19 Scatter Plot](/viz/scatter.png)
 
 The correlation measure confirms a strong negative correlation in both and yet a stronger one with global numbers. 
 The scatterplot, reveals the same information and with additional insights: 
@@ -123,13 +123,13 @@ into our model. Both cubic and quadratic terms were included. The data was then 
 through MSE, RMSE and R2 scores. Unfortunately, the experiment did not succeed 
 because every plot generated different results. Here are some of the plots that were generated: 
 
-![Prediction #1 ](/picscreen/prediction.png)
+![Prediction #1 ](/viz/prediction.png)
 
-![Prediction #2 ](/picscreen/prediction2.png)
+![Prediction #2 ](/viz/prediction2.png)
 
-![Prediction #3 ](/picscreen/prediction3.png)
+![Prediction #3 ](/viz/prediction3.png)
 
-![Prediction #4 ](/picscreen/prediction4.png)
+![Prediction #4 ](/viz/prediction4.png)
 
 
 ### (Lack of) Results
