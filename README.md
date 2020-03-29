@@ -120,7 +120,7 @@ cases.
 The method used to model this data was a linear regression with polynomial terms. The latter allows us to fit curves
 into our model. Both cubic and quadratic terms were included. The data was then plotted and finally evaluated through
 through MSE, RMSE and R2 scores. Unfortunately, the experiment did not succeed 
-because every plot generated different results. Here are some of the plots that were generated: 
+because running it generates different results. Here are some of the plots that were generated: 
 
 ![Prediction #1 ](/viz/prediction.png)
 
