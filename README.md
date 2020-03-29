@@ -18,7 +18,7 @@ What is the impact of the COVID-19 virus on the stock market and can we infer an
 
 ### Abstract 
 This study looks into data of both confirmed COVID-19 cases and the S&P 500 (close) prices to generate descriptive
-analysis and attempt to make a predictive one. The descriptive analysis found different stages with 
+analysis and to (try to) make a predictive one. The descriptive analysis found different stages with 
 different relationships between the two factors. First, a lack of relationship followed by a threshold of panic,
 with a strong negative correlation. What happens after has yet to unfold, we are still
 in the early stages of the pandemic- and because of that, we were unable to infer a predictive results.
