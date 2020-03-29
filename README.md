@@ -164,13 +164,13 @@ an exageration of the relationship between both factors. At this moment in time,
 I do expect that we may see other different stages regarding the socio-econmic impact of the virus.
 Perhaps, people will undergo some form of adaption and newer technologies will emerge. 
 It is again, too soon to tell. I do however, look forward to using my code in the upcoming days/weeks, 
-to replug updates numbersand generate newer and better estimates. 
+to replug updated numbers and generate newer and better estimates. 
 
 ### Future Research
 
-As mentioned, it would be interesting to study the actual threshold between the emergence of a virus
-and the sudden shift into socio-economic panic. It would also be interesting to undergo this same study,
-but using the Dow Jones stock, and analyze the impact of the virus across different industries.
+As mentioned, it would be interesting to study the variables that led to the drastic shift on the first week of March, 2020.
+It would also be interesting to undergo this same study, but using the Dow Jones stock instead of the S&P 500, to then analyze 
+the impact of the virus across different industries.
 
 -----
 ### References
