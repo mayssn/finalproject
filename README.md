@@ -62,9 +62,11 @@ listed on US. stock exchanges.
 
 We saw earlier that the confirmed cases of COVID-19 took a drastic shift in growth rates
 during the 2nd week of March 2020, this graph reveals that stock market actually reacted a little bit earlier - in the 
-1st week. 
-Given that tests need a few days to confirm results, it is likely that the first week of March was when the world
-actually began to take COVID-19 seriously. The latter leading to both a panic in the stock market &
+1st week. This is a very important point here: The stock market reacted before the exponential growth of confirmed cases.
+Meaning that it was not the growth of number of cases that induced it, in fact more likely to do with social factors.
+Given that tests do need a few days to confirm results, then tests also took place on the first week of March. 
+This is when the world seems to have shifted its attitude towards the virus. 
+The latter leading to both a panic in the stock market &
 more COVID-19 testing which generated results on the 2nd week leading to the growth in confirmed cases. 
 
 ### Why the 1st week of March?
