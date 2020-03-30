@@ -21,7 +21,7 @@ This study looks into data of both confirmed COVID-19 cases and the S&P 500 (clo
 analysis and to (try to) make a predictive one. The descriptive analysis found different stages with 
 different relationships between the two factors. First, a lack of relationship followed by a threshold of panic,
 with a strong negative correlation. What happens after has yet to unfold, we are still
-in the early stages of the pandemic- and because of that, we were unable to infer a predictive results.
+in the early stages of the pandemic- and because of that, we were unable to infer predictive results.
 
 ### Introduction 
 The world is facing a pandemic: COVID-19. Millions have lost their jobs, businesses are closing down,
